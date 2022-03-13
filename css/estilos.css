@@ -16,7 +16,7 @@ body
     padding: 0.5em;
 }
 
-#cabecera tagline
+#cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -37,8 +37,17 @@ body
 {
     font-size: 20px;  
 }
-#post{
+
+#post
+{
 
     padding: 1em;
 }
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
